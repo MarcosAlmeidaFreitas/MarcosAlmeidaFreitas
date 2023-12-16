@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'am Marcos Antônio. 👋
 
-<!--
-**MarcosAlmeidaFreitas/MarcosAlmeidaFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I have a degree in Information Systems from the Instituto Federal Fluminense 
+##### and Studying Web Development at Rocketseat => https://www.rocketseat.com.br/ 🚀
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+- Layout Design: `Figma`
+- Version Code Control: `GIT and Github`
+- Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+- Whatsapp: (22) 988090282
+- Email: marcosantonio-freitas@hotmail.com
+- Linkedin: https://www.linkedin.com/in/marcosantonioalmeidafreitas/
