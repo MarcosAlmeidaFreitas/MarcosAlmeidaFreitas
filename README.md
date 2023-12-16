@@ -4,7 +4,7 @@
 ##### and Studying Web Development at Rocketseat => https://www.rocketseat.com.br/ 🚀
 
 #### Current stack
-- Main language: `Javascript`
+- Main language: `Javascript`, `Java`, `C`
 - Backend: `Nodejs`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
 - Layout Design: `Figma`
